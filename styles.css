@@ -93,3 +93,6 @@ footer {
 body {
     margin-bottom: 100px; /* Space for the footer */
 }
+.image{
+    border-radius: 20px;
+}
